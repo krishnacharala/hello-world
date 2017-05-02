@@ -1,2 +1,3 @@
 # hello-world
-This is my respository on git hub
+This is my first respository on git hub
+feeling excited to go further
